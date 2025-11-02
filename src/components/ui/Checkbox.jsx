@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Checkbox = ({ 
+const CheckBox = ({ 
   label, 
   checked, 
   onChange,
@@ -18,4 +18,4 @@ const Checkbox = ({
   );
 };
 
-export default Checkbox;
+export default CheckBox;
